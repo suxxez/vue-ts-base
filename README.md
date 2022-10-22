@@ -1,29 +1,3 @@
-# test-ts-app
+# vue-ts-app
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is a Vue.js base installation - but in TypeScript. It is deployed [here](https://suxxez.github.io/vue-ts-base/#/) on Github Pages. It can be used as a template to start building a new Vue application.
